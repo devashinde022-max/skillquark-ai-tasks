@@ -1,0 +1,12 @@
+TASK 1 SUBMISSION NOTES
+
+Project: EDA & Visualization
+Domain: Artificial Intelligence / Data Analysis
+Tools: Python, Pandas, Matplotlib, Seaborn
+
+Before final submission:
+1. Replace sample_dataset.csv with the actual Kaggle dataset required by your internship.
+2. Update DATA_FILE and column names in eda.py if needed.
+3. Run: python eda.py
+4. Open the outputs folder and verify all PNG charts.
+5. Take screenshots of the working program and charts.
